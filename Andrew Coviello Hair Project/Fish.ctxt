@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Fish
+comment0.text=\r\n\ fish\ are\ friends,\ not\ food\r\n\ \r\n\ Donovan\ Birch\r\n\ 4/20/17\r\n\ death\ to\ the\ batterwitch\r\n
+comment1.params=
+comment1.target=void\ eat()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
